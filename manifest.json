@@ -3,8 +3,8 @@
   "name": "PoultryMaster",
   "short_name": "PoultryMaster",
   "description": "Kläcknings-, kyckling-, flock- och värpningslogg.",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/EggManager/",
+  "scope": "/EggManager/",
   "display": "standalone",
   "display_override": [
     "standalone",
